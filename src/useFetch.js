@@ -53,7 +53,6 @@ export default function useFetch(url, lat, long) {
     );
   }
   if (error) {
-    console.log("err:", error, lat, long);
     const message =
       !lat.length || !long.length
         ? "Your location is not determined"
