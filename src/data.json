@@ -1,0 +1,31 @@
+{
+  "coord": { "lon": 33.4523, "lat": 47.9467 },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 2.95,
+    "feels_like": -0.66,
+    "temp_min": 2.95,
+    "temp_max": 2.95,
+    "pressure": 1027,
+    "humidity": 75,
+    "sea_level": 1027,
+    "grnd_level": 1014
+  },
+  "visibility": 10000,
+  "wind": { "speed": 4, "deg": 102, "gust": 7.59 },
+  "clouds": { "all": 100 },
+  "dt": 1667800371,
+  "sys": { "country": "UA", "sunrise": 1667795984, "sunset": 1667830800 },
+  "timezone": 7200,
+  "id": 707663,
+  "name": "Artema",
+  "cod": 200
+}
